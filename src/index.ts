@@ -88,7 +88,7 @@ M2G.type = function ( type ): string { //TODO: Add support for JSON
 
     case String: return 'String';
     case Number: return 'Float'; //FIXME: What if we want an Int?
-    case Date: return 'Date';
+    case Date: return 'String';
     // case Buffer: return; //TODO: Implement
     case Boolean: return 'Boolean';
     case Array: return '[]';
