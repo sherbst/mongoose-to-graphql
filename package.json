@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-to-graphql",
+  "name": "@sherbst/mongoose-to-graphql",
   "version": "1.0.10",
   "description": "Converts a Mongoose schema to its GraphQL representation.",
   "main": "dist/index.js",
